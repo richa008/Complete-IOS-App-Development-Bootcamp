@@ -12,3 +12,8 @@ A Las Vegas dice app that make the die roll at the press of a button.
 A colorful Xylophone app that plays music when the buttons are pressed.
 
 <img src="Screenshots/Xylophone.png" width="150">
+
+### Egg Timer
+An egg timer app that tracks how long it takes to boil eggs to soft, medium or hard
+
+<img src="Screenshots/EggTimer.png" width="150">
