@@ -19,6 +19,7 @@ An egg timer app that tracks how long it takes to boil eggs to soft, medium or h
 <img src="Screenshots/EggTimer.png" width="150">
 
 ### Quizzler
-A trivia game app. Uses the MVC design pattern
+A trivia game app.
+- Uses structs and MVC design pattern
 
 <img src="Screenshots/Quizzler.png" width="150">
