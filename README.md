@@ -23,3 +23,7 @@ A trivia game app. Uses structs and MVC design pattern.<br>
 BMI calculator app that takes weight and height as inputs. Uses MVC design pattern, navigation and segues.<br>
 <img src="Screenshots/Bmi.png" width="150">
 
+### Tipsy
+Tip calculator app that takes bill amount, tip percentage and number of people to split the bill as input. Calculates the total per person.<br>
+<img src="Screenshots/Tipsy1.png" width="150">
+<img src="Screenshots/Tipsy2.png" width="150">
