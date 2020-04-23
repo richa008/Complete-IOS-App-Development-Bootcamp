@@ -29,5 +29,5 @@ Tip calculator app that takes bill amount, tip percentage and number of people t
 <img src="Screenshots/Tipsy2.png" width="150">
 
 ### Clima
-Weather app that lets you search for a location and shows the temperature at that location. Uses API from OpenWeather Map https://openweathermap.org/. Module contains dark mode, vector images, protocols, delegate design pattern, URLSession for making API calls, Closures, JSON decoding, Updating UI using dispatch queue, extensions and using Core location to get location data.<br>
+Weather app that lets you search for a location and shows the temperature at that location. Uses API from OpenWeather Map https://openweathermap.org/. Module contains dark mode, vector images, protocols, delegate design pattern, URLSession for making API calls, Closures, JSON decoding, updating UI using dispatch queue, extensions and using core location to get location data.<br>
 <img src="Screenshots/Clima.png" width="150">
