@@ -31,3 +31,7 @@ Tip calculator app that takes bill amount, tip percentage and number of people t
 ### 7. Clima
 Weather app that lets you search for a location and shows the temperature at that location. Uses API from OpenWeather Map https://openweathermap.org/. Module contains dark mode, vector images, protocols, delegate design pattern, URLSession for making API calls, Closures, JSON decoding, updating UI using dispatch queue, extensions and using core location to get location data.<br>
 <img src="Screenshots/Clima.png" width="150">
+
+### 8. Flash Chat
+Lets people chat with each other. Uses Firebase Firestore to store messages. Uses cocoapods, authentication using Firebase, tableview. <br>
+<img src="Screenshots/FlashChat.png" width="150">
