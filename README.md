@@ -33,5 +33,5 @@ Weather app that lets you search for a location and shows the temperature at tha
 <img src="Screenshots/Clima.png" width="150">
 
 ### 8. Flash Chat
-Lets people chat with each other. Uses Firebase Firestore to store messages. Uses cocoapods, authentication using Firebase, tableview. <br>
+Lets people chat with each other. Uses Firebase Firestore to store messages. Uses cocoapods, authentication using Firebase, tableviews. <br>
 <img src="Screenshots/FlashChat.png" width="150">
