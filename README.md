@@ -37,6 +37,6 @@ Lets people chat with each other. Uses Firebase Firestore to store messages. Use
 <img src="Screenshots/FlashChat.png" width="150">
 
 ### 9. Todoey
-A todolist app to keep track of all your tasks. Uses table view, alert view container, swipable cells, filtering search results. The module focussed on local data persistance using user defaults, custom plist, core data and Realm. Final app uses Realm.<br>
+A todolist app to keep track of all your tasks. Uses table view, alert view container, swipable cells, filtering search results, encoding and decoding using NSCoder. The module focussed on local data persistance using user defaults, custom plist, core data and Realm. Final app uses Realm.<br>
 <img src="Screenshots/Todoey1.png" width="150">
 <img src="Screenshots/Todoey2.png" width="150">
