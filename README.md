@@ -35,3 +35,8 @@ Weather app that lets you search for a location and shows the temperature at tha
 ### 8. Flash Chat
 Lets people chat with each other. Uses Firebase Firestore to store messages. Uses cocoapods, authentication using Firebase, tableviews. <br>
 <img src="Screenshots/FlashChat.png" width="150">
+
+### 9. Todoey
+A todolist app to keep track of all your tasks. Uses table view, alert view container, swipable cells, filtering search results, encoding and decoding using NSCoder. The module focussed on local data persistance using user defaults, custom plist, core data and Realm. Final app uses Realm.<br>
+<img src="Screenshots/Todoey1.png" width="150">
+<img src="Screenshots/Todoey2.png" width="150">
