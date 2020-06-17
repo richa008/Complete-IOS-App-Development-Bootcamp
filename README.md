@@ -44,3 +44,7 @@ A todolist app to keep track of all your tasks. Uses table view, alert view cont
 ### 10. Calculator
 A basic calculator app. Uses advanced Swift fundamentals like computed properties, structs, swift tuples, optional chaining, gaurd vs if let. <br>
 <img src="Screenshots/Calculator.png" width="150">
+
+### 11. Hotdog or Not
+Image processing app that tells you if a image is a Hotdog or not using a pre trained machine learning model. Uses CoreML, machine learning, camera, image processing.<br>
+<img src="Screenshots/HotdogOrNot.png" width="150">
